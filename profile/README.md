@@ -1,31 +1,43 @@
-## Hi dev 👋
+### Hi dev 👋
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=It's+Inacio+Sacataria+here!;I'm+a+Android+Developer...;I'm+also+Backend+Develope)](https://git.io/typing-svg)
 
-#ShowCase
 
-#BookStore
-## For User
-<img src="https://github.com/inacio-sacataria/BookStore/blob/master/img/1%20(1).jpg" alt="drawing" width="200"/>   <img src="https://github.com/inacio-sacataria/BookStore/blob/master/img/1%20(2).jpg" alt="drawing" width="200"/>   <img src="https://github.com/inacio-sacataria/BookStore/blob/master/img/1%20(3).jpg" alt="drawing" width="200"/>  <img src="https://github.com/inacio-sacataria/BookStore/blob/master/img/1%20(4).jpg" alt="drawing" width="200"/> 
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```kotlin
+object **Who Am I** {
+ val name = "Inacio Sacataria"
+ val acknowledgements = "Android & Backend Development"
  
-## For Admin
+ val primarySkillset = "Some Skills"
+ val languages = listOf("Kotlin","JavaScript","Java", "C#","few words on dart")
  
-<img src="https://github.com/inacio-sacataria/BookStore/blob/master/img/2%20(1).jpg" alt="drawing" width="200"/>   <img src="https://github.com/inacio-sacataria/BookStore/blob/master/img/2%20(2).jpg" alt="drawing" width="200"/>   <img src="https://github.com/inacio-sacataria/BookStore/blob/master/img/2%20(3).jpg" alt="drawing" width="200"/>  <img src="https://github.com/inacio-sacataria/BookStore/blob/master/img/2%20(4).jpg" alt="drawing" width="200"/> 
- 
-
-
-# Invetary
-<img src="https://github.com/inacio-sacataria/Inventary/blob/master/img/1.jpg" alt="drawing" width="200"/>  <img src="https://github.com/inacio-sacataria/Inventary/blob/master/img/2.jpg" alt="drawing" width="200"/>  <img src="https://github.com/inacio-sacataria/Inventary/blob/master/img/3.1.jpg" alt="drawing" width="200"/> <img src="https://github.com/inacio-sacataria/Inventary/blob/master/img/3.2.jpg" alt="drawing" width="200"/>  <img src="https://github.com/inacio-sacataria/Inventary/blob/master/img/4.jpg" alt="drawing" width="200"/> <img src="https://github.com/inacio-sacataria/Inventary/blob/master/img/5.jpg" alt="drawing" width="200"/> <img src="https://github.com/inacio-sacataria/Inventary/blob/master/img/6.jpg" alt="drawing" width="200"/> <img src="https://github.com/inacio-sacataria/Inventary/blob/master/img/7.jpg" alt="drawing" width="200"/>  <img src="https://github.com/inacio-sacataria/Inventary/blob/master/img/8.jpg" alt="drawing" width="200"/> <img src="https://github.com/inacio-sacataria/Inventary/blob/master/img/9.jpg" alt="drawing" width="200"/> <img src="https://github.com/inacio-sacataria/Inventary/blob/master/img/10.jpg" alt="drawing" width="200"/> 
-
-
-# Android challenge
-<img src="https://github.com/inacio-sacataria/android-challenge/blob/dev/screenshots/1a.png" alt="drawing" width="200"/> <img src="https://github.com/inacio-sacataria/android-challenge/blob/dev/screenshots/2a.png" alt="drawing" width="200"/> <img src="https://github.com/inacio-sacataria/android-challenge/blob/dev/screenshots/1B.png" alt="drawing" width="200"/> <img src="https://github.com/inacio-sacataria/android-challenge/blob/dev/screenshots/2B.png" alt="drawing" width="200"/>
+ // Check my events on the link bellow
+ val MyEvents = "https://bit.ly/itcdev" 
+ val Google_IO_Extented = "https://bit.ly/googleioext"
  
  
-# Notes
-<img src="https://github.com/inacio-sacataria/Hope/blob/master/img/1.jpg" alt="drawing" width="200"/>  <img src="https://github.com/inacio-sacataria/Hope/blob/master/img/2.jpg" alt="drawing" width="200"/> <img src="https://github.com/inacio-sacataria/Hope/blob/master/img/3.jpg" alt="drawing" width="200"/>  <img src="https://github.com/inacio-sacataria/Hope/blob/master/img/4.jpg" alt="drawing" width="200"/>
+ // find me resume in this variable
+ val MyResume = "https://bit.ly/inacio-resume" 
+ 
+ //download my apps
+ val nextJob = "https://bit.ly/younextjob"
+}
+ 
+```
+[website]: https://bit.ly/inacio-portifolio/
+[linkedin]: https://www.linkedin.com/in/inacio-sacataria-606683199/
+<br>
 
-## Author inacio sacataria
+#### Rede Sociais!
+
+🏡 [website][website] **|** 
+👔 [linkedin][linkedin]
+
