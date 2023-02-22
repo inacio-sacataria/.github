@@ -17,17 +17,6 @@ object **Who Am I** {
  
  val primarySkillset = "Some Skills"
  val languages = listOf("Kotlin","JavaScript","Java", "C#","few words on dart")
- 
- // Check my events on the link bellow
- val MyEvents = "https://bit.ly/itcdev" 
- val Google_IO_Extented = "https://bit.ly/googleioext"
- 
- 
- // find me resume in this variable
- val MyResume = "https://bit.ly/inacio-resume" 
- 
- //download my apps
- val nextJob = "https://bit.ly/younextjob"
 }
  
 ```
