@@ -8,7 +8,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
-" />
+
 
 ```kotlin
 object **Who Am I** {
